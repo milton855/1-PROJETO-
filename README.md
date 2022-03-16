@@ -2,7 +2,7 @@
 # PINT - PROJETO INTEGRADOR (Entregável)
 
 
-Informações gerais
+---> Informações gerais
 
 * Time de 4-5 alunos
 * Ideia: projetar, planejar, desenvolver, testar e implantar um software como um serviço Recomendação: usar Java para o backend e HTML5 + JavaScript para o frontend; outras linguagens/plataformas/arcabouços podem ser usados;
@@ -13,7 +13,7 @@ de configuração e mudança (Git/Github);
 * Utilizar ferramentas de CI/CD (Travis CI/Github Actions); 
 * Utilizar um serviço de cloud para "hospedar" a app (Azure/AWS/GCP/Heroku);
 
-Entrega em cada iteração
+---> Entrega em cada iteração
 
 * Cada iteração terá duração de 2 semana.
 * Instruções detalhadas sobre as entregas serão disponibilizadas futuramente.
