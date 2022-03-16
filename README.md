@@ -1,7 +1,6 @@
-                                                                         PINT - PROJETO INTEGRADOR
+                                                                         
+# PINT - PROJETO INTEGRADOR (Entregável)
 
-
-# 1-PROJETO
 
 Informações gerais
 
